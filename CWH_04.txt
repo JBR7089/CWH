@@ -1,0 +1,26 @@
+package com.company;
+
+public class CWH_04_literals {
+    public static void main(String[] args) {
+        byte age = 50;
+        int age2 = 60;
+        short age3 = 40;
+        long age4 = 5555l;
+        float f1 = 50.5f;
+        char ch = 'A';
+        double d1 = 5.55d;
+        boolean a = true;
+        System.out.println(age);
+        System.out.println(age2);
+        System.out.println(age3);
+        System.out.println(age4);
+        System.out.println(f1);
+        System.out.println(ch);
+        String str = "harry";
+        System.out.println(str);
+
+
+    }
+
+
+}
